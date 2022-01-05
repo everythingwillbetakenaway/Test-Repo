@@ -29,6 +29,6 @@ metadata: (
 	)
 ).add;)
 
-//works
+//works select
 
 Synth(\sos_bell);
